@@ -24,7 +24,7 @@ Vent at an AI character: the brawler, your best mate, your mum, your boss, the d
 
 ---
 
-Γεια, είμαι ο Γιάννης. Φτιάχνω sites και IT για επιχειρήσεις από το 2007 ([3wSol.gr](https://www.3wsol.gr)), το Platebit, έναν AI coach για διατροφή και προπόνηση σε 7 γλώσσες, και το Binelik AI, μια εφαρμογή ανοιχτού κώδικα για να ξεσπάς σε έναν AI χαρακτήρα.
+Γεια, είμαι ο Γιάννης. Φτιάχνω sites και IT για επιχειρήσεις από το 2007 ([3wSol.gr](https://www.3wsol.gr)), το Platebit, έναν AI coach για διατροφή και προπόνηση σε 7 γλώσσες, το Binelik AI, μια εφαρμογή ανοιχτού κώδικα για να ξεσπάς σε έναν AI χαρακτήρα και άλλα.
 
 #### 🌐 jemangr.app
 app and games portfolio. Μπείτε στο ΤΑΞΙ...
