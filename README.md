@@ -2,6 +2,11 @@
 
 IT consultant from Athens, Greece. I've been building things for the web and for companies' IT since 2007: cloud and Microsoft 365, networks and security, VoIP, automation with n8n and AI.
 
+#### 🌐 jemangr.app
+My own app and games portfolio. join the game.
+
+**[jemangr.app](https://jemangr.app)**
+
 #### 🌐 3wSol
 My own web and IT studio since 2007: websites and e-shops, hosting, and IT support for small businesses in Greece.
 
@@ -20,3 +25,8 @@ Vent at an AI character: the brawler, your best mate, your mum, your boss, the d
 ---
 
 Γεια, είμαι ο Γιάννης. Φτιάχνω sites και IT για επιχειρήσεις από το 2007 ([3wSol.gr](https://www.3wsol.gr)), το Platebit, έναν AI coach για διατροφή και προπόνηση σε 7 γλώσσες, και το Binelik AI, μια εφαρμογή ανοιχτού κώδικα για να ξεσπάς σε έναν AI χαρακτήρα.
+
+#### 🌐 jemangr.app
+app and games portfolio. Μπείτε στο ΤΑΞΙ...
+
+**[jemangr.app](https://jemangr.app)**
